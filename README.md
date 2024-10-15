@@ -1,5 +1,14 @@
-## Hi there 👋
+## 👋Hi, i'm Daniil 
 
+
+## Stack 
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+[![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)
+
+[![FastAPI](https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white)](#)
+[![Sqlalchemy](https://img.shields.io/badge/Sqlalchemy-%db2518.svg?logo=sqlalchemy&logoColor=white)](#)
+[![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white)](#)
+[![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
 <!--
 **KosmosoJ/KosmosoJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
