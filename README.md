@@ -9,6 +9,8 @@ __here some of my projects:__
 
 * Quiz bot with __Aiogram__ and __Sqlalchemy__ [TestingBot](https://github.com/KosmosoJ/testing_bot)
 
+* Choose anime by your mood [Anime4Mood](https://github.com/KosmosoJ/A4M)
+
 More you can find in my [repositories](https://github.com/KosmosoJ?tab=repositories)
 
 
@@ -22,7 +24,7 @@ More you can find in my [repositories](https://github.com/KosmosoJ?tab=repositor
 
 [![FastAPI](https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
 [![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white)](https://www.djangoproject.com/)
-[![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
+[![ReactJS](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
 
 [![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)
 [![Sqlalchemy](https://img.shields.io/badge/Sqlalchemy-%4432345.svg?logo=sqlalchemy&logoColor=white)](https://www.sqlalchemy.org/)
